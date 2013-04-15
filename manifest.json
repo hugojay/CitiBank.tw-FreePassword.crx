@@ -1,0 +1,12 @@
+{
+	"name": "花旗銀行幹嘛用虛擬鍵盤",
+	"version": "0.1",
+	"content_scripts": [
+		{
+			"matches": ["https://www.citibank.com.tw/*"],
+			"js": ["freepassword.js"],
+			"run_at": "document_idle"
+		}
+	],
+	"manifest_version": 2
+}
