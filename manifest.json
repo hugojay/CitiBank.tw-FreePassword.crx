@@ -1,6 +1,6 @@
 {
 	"name": "花旗銀行幹嘛用虛擬鍵盤",
-	"version": "0.2",
+	"version": "0.3",
 	"description": "花旗銀行（台灣）網銀登入為何非得用虛擬鍵盤打密碼？",
 	"homepage_url": "https://github.com/hugojay/CitiBank.tw-FreePassword.crx",
 	"update_url": "https://raw.github.com/hugojay/CitiBank.tw-FreePassword.crx/master/updates.xml",
